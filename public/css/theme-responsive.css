@@ -1,0 +1,749 @@
+@media (min-width: 200px) and (max-width: 600px) {
+	
+  header#header .inner_container .location { width:40%; float:left; margin-top:5px; }
+
+  header#header .inner_container .location ul li a { font-size:15px; line-height:24px; }
+  
+  header#header .inner_container .location ul li a img { width:30%; }
+  
+  section#body .main_banner .inner_container .logo { width:50%; margin:0 auto; height:auto; float:none; text-align:center;  }
+
+  section#body .main_banner .inner_container .content { width:100%; float:none; text-align:center; padding-top:2%; }
+
+  section#body .main_banner .inner_container .content h2 { font-size:24px; line-height:30px; }
+  
+  section#body .search_container .inner_container { padding:10px 15px; padding-top:20px; } 
+
+  section#body .search_container .inner_container ul li { width:100%; margin-right:0px; margin-bottom:10px; }
+  
+  section#body .search_container .inner_container ul li:last-child { margin-bottom:0px; }
+  
+  section#body .search_container .inner_container ul li .area { width:50%; border:0px; padding:15px 0; padding-left:40px; }
+
+  section#body .search_container .inner_container ul li .search { width:67%; border:0px; padding:15px 0; padding-left:40px; }
+  
+  section#body .search_container .inner_container ul li .btn { padding:24px 24px; padding-top:26px; background-position:5px 6px; }
+  
+ .tabs-style-iconbox nav { width:100%; }
+ 
+ .tabs nav ul li img { width:70px; height:70px; }
+ 
+ .tabs-style-iconbox nav ul li.tab-current a { font-size:15px; font-weight:bold; }
+ 
+ .tabs-style-iconbox nav ul li a { font-size:15px; font-weight:bold; }
+ 
+ section#body .tabs_content .sub_categories ul li { width:40%; }
+ 
+ .tabs-style-iconbox nav { border-bottom:#eaeaea 1px solid; padding-bottom:10px; }
+ 
+ section#body .tabs_content .sub_categories ul li p { font-size:14px; line-height:24px; }
+ 
+ footer#footer .inner_container .footer_content { width:100%; float:none; }
+ 
+ footer#footer .inner_container .footer_content .social_networking ul { text-align:center; }
+ 
+ footer#footer .inner_container .footer_content .footer_nav ul { text-align:center; }
+ 
+ footer#footer .inner_container .footer_content .footer_nav ul li a { font-size:14px; line-height:25px; }
+ 
+  footer#footer .inner_container .footer_content .footer_nav ul li { padding:2px 5px }
+ 
+ footer#footer .inner_container .footer_content .footer_nav ul li span { display:none }
+ 
+ footer#footer .inner_container .copyright { width:100%; float:none; text-align:center; }
+ 
+ /*Inner Pages*/
+ 
+ section#body .search_container { padding-bottom:10px; }
+ 
+ section#body .search_container .inner_page_logo { width:100%; float:none; text-align:center; }
+
+ section#body .search_container.inner_page .inner_container ul { width:100%; float:none; text-align:center; margin-top:15px; }
+ 
+ section#body .search_container.inner_page .inner_container ul li { width:90%; }
+
+section#body .search_container.inner_page .inner_container ul li .area { width:auto; }
+
+section#body .search_container.inner_page .inner_container ul li .search { width:60%; }
+
+section#body .two_col_layout .left_col {/* display:none; */ width:100%;}
+
+section#body .two_col_layout .right_col { width:auto; float:none; padding:0 15px; }
+
+section#body .two_col_layout .right_col .results_container_wrapper .result_shown { width:60%; float:left; font-size:14px; }
+
+section#body .two_col_layout .right_col .results_container_wrapper .live_chat { width:28%; float:right; font-size:13px; }
+
+section#body .two_col_layout .right_col .listing_row { width:100%; padding:10px 0 }
+
+section#body .two_col_layout .right_col .listing_row ul li .details_block { width:100%; float:none; margin-right:0px; }
+
+section#body .two_col_layout .right_col .listing_row ul li .availability_block { width:100%; float:left; padding:20px 0 }
+
+/*Detail Page*/
+
+section#body .two_col_layout .right_col .detail_page .doc_detail_container .details_block { width:100%; float:left; margin-left:10px; padding-top:15px; }
+
+section#body .two_col_layout .right_col .detail_page .tabs_content .availability_block ul li { width:100%; float:left; padding:5px 0px; }
+
+section#body .two_col_layout .right_col .detail_page .tabs_content .book_appointment { float:left; clear:both; margin-top:20px; }
+
+section#body .two_col_layout .right_col .detail_page .tabs_content .services ul { width:100%; float:none; padding:20px 0px; margin:0px 0px; }
+
+section#body .two_col_layout .right_col .detail_page .tabs_content .doc_info_section .block { width:100%; display:inline-table; vertical-align:top; padding:5px 0px }	
+
+section#body .two_col_layout .right_col .detail_page .tabs_content .doc_info_section .block ul { margin:0 0px; }
+
+#sidebar { display:none }
+
+section#body .two_col_layout .detail_page .profile_container { width:auto; padding:0 15px; } 
+
+section#body .two_col_layout .detail_page .profile_container .doc_detail_container .details_block { width:100%; padding-top:20px; }
+
+section#body .two_col_layout .detail_page .profile_container .tabs_content .availability_block ul li { width:100%; }
+
+
+}
+
+@media (min-width: 400px) and (max-width: 600px) {
+
+section#body .two_col_layout .right_col .listing_row ul li .details_block { width:50%; float:left; margin-right:8px; }
+
+section#body .two_col_layout .right_col .listing_row ul li .availability_block { width:100%; float:left; padding:20px 0 }
+ 	
+}
+
+@media (min-width: 600px) and (max-width: 800px) {
+	
+  header#header .inner_container .location { width:25%; float:left; margin-top:5px; }
+
+  header#header .inner_container .location ul li a { font-size:15px; line-height:24px; }
+  
+  header#header .inner_container .location ul li a img { width:20%; }
+  
+  header#header .inner_container nav { width:70%; }
+  
+
+  
+  header#header .inner_container nav ul li { display:inline-block; padding:0 5px }  
+
+ header#header .inner_container nav ul li a { font-size:14px; }
+ 
+ section#body .main_banner { min-height:230px; }
+  
+  section#body .main_banner .inner_container .logo { width:28%; margin:0 auto; height:auto; float:left; text-align:left;  }
+
+  section#body .main_banner .inner_container .content { width:58%; float:right; text-align:right; padding-top:6%; }
+
+  section#body .main_banner .inner_container .content h2 { font-size:28px; line-height:30px; }
+
+  section#body .search_container .inner_container ul li { width:48%; margin-right:0px; margin-bottom:10px; }
+  
+  section#body .search_container .inner_container ul li:last-child { margin-bottom:0px; }
+  
+  section#body .search_container .inner_container ul li .area { width:50%; border:0px; padding:15px 0; padding-left:40px; }
+
+  section#body .search_container .inner_container ul li .search { width:67%; border:0px; padding:15px 0; padding-left:40px; }
+  
+  section#body .search_container .inner_container ul li .btn { padding:24px 24px; padding-top:26px; background-position:5px 6px; }
+  
+ .tabs-style-iconbox nav { width:100%; }
+ 
+ .tabs-style-iconbox nav ul li.tab-current a { font-size:18px; font-weight:bold; }
+ 
+ .tabs-style-iconbox nav ul li a { font-size:18px; font-weight:bold; }
+ 
+  section#body .tabs_content .sub_categories ul li { width:28%; }
+ 
+ .tabs-style-iconbox nav { border-bottom:#eaeaea 1px solid; padding-bottom:10px; }
+ 
+  section#body .tabs_content .sub_categories ul li p { font-size:14px; line-height:24px; }
+ 
+  footer#footer .inner_container .footer_content { width:100%; float:none; }
+ 
+  footer#footer .inner_container .footer_content .social_networking ul { text-align:center; }
+ 
+  footer#footer .inner_container .footer_content .footer_nav ul { text-align:center; }
+ 
+  footer#footer .inner_container .footer_content .footer_nav ul li a { font-size:14px; line-height:25px; }
+ 
+  footer#footer .inner_container .footer_content .footer_nav ul li { padding:2px 5px }
+ 
+  footer#footer .inner_container .footer_content .footer_nav ul li span { display:none }
+ 
+  footer#footer .inner_container .copyright { width:100%; float:none; text-align:center; }
+  
+   /*Inner Pages*/
+ 
+ section#body .search_container { padding-bottom:10px; }
+ 
+ section#body .search_container .inner_page_logo { width:100%; float:none; text-align:center; }
+
+ section#body .search_container.inner_page .inner_container ul { width:100%; float:none; text-align:center; margin-top:15px; }
+ 
+ section#body .search_container.inner_page .inner_container ul li { width:90%; }
+
+section#body .search_container.inner_page .inner_container ul li .area {/* width:90%*/; }
+
+    section#body .search_container.inner_page .inner_container ul li .search {
+        width: 91%;
+    }
+
+section#body .two_col_layout .left_col { /*display:none;*/ width:100%;}
+
+section#body .two_col_layout .right_col { width:auto; float:none; padding:0 15px; }
+
+section#body .two_col_layout .right_col .results_container_wrapper .result_shown { width:60%; float:left; font-size:14px; }
+
+section#body .two_col_layout .right_col .results_container_wrapper .live_chat { width:28%; float:right; font-size:13px; }
+
+section#body .two_col_layout .right_col .listing_row { width:100%; padding:10px 0 }
+
+section#body .two_col_layout .right_col .listing_row ul li .details_block { width:38%; float:left; margin-right:0px; }
+
+section#body .two_col_layout .right_col .listing_row ul li .availability_block { width:40%; float:left; padding:20px 0 }
+
+/*Detail Page*/
+
+section#body .two_col_layout .right_col .detail_page .doc_detail_container .details_block { width:63%; float:left; margin-left:10px; }
+
+#sidebar { display:none }
+
+section#body .two_col_layout .detail_page .profile_container { width:100%; padding:0 15px; } 
+
+section#body .two_col_layout .detail_page .profile_container .doc_detail_container .details_block { width:100%; padding-top:20px; }
+
+section#body .two_col_layout .detail_page .profile_container .tabs_content .availability_block ul li { width:100%; }
+	
+}
+
+@media (min-width: 800px) and (max-width: 1000px) {
+	 
+  header#header .inner_container .location { width:25%; float:left; margin-top:5px; }
+
+  header#header .inner_container .location ul li a { font-size:15px; line-height:24px; }
+  
+  header#header .inner_container .location ul li a img { width:20%; }
+  
+  header#header .inner_container nav { width:70%; }
+  
+
+  
+  header#header .inner_container nav ul li { display:inline-block; padding:0 5px }  
+
+  header#header .inner_container nav ul li a { font-size:14px; }
+ 
+  section#body .search_container .inner_container ul li { width:48%; margin-right:0px; margin-bottom:10px; }
+  
+  section#body .search_container .inner_container ul li:last-child { margin-bottom:0px; }
+  
+  section#body .search_container .inner_container ul li .area { width:50%; border:0px; padding:15px 0; padding-left:40px; }
+
+  section#body .search_container .inner_container ul li .search { width:67%; border:0px; padding:15px 0; padding-left:40px; }
+  
+  /*Detail Page*/
+
+section#body .two_col_layout .right_col .detail_page .doc_detail_container .details_block { width:63%; float:left; margin-left:10px; }
+
+#sidebar { display:block }
+
+section#body .two_col_layout .detail_page .profile_container { width:79%; padding:0 15px; } 
+
+section#body .two_col_layout .detail_page .profile_container .doc_detail_container .details_block { width:70%; }
+
+section#body .two_col_layout .detail_page .profile_container .tabs_content .availability_block ul li { width:48%; }
+
+}
+
+@media (min-width: 600px) and (max-width: 1500px){
+ header#header .inner_container nav #main_menu{ display:block !important;}
+}
+
+
+
+
+@media (min-width: 200px) and (max-width:798px){
+
+	
+}
+
+@media (min-width: 798px) and (max-width:100px){
+	
+
+	
+	
+}
+
+
+/*
+==========================================================
+account pages
+==========================================================
+*/
+
+
+/*user_profile_page*/
+
+@media (min-width: 200px) and (max-width:620px) {
+section#body .one_col_layout .user_profile_page .top_block .thumbnail_outer { width: 40%;}	
+section#body .one_col_layout .user_profile_page .form_block .colleft { float: left; width: 99%;}
+section#body .one_col_layout .user_profile_page .form_block .colright {float: right; margin-top: 40px; width: 99%;}	
+section#body .one_col_layout .user_profile_page .form_block .input_outer select{ background-position:right;}
+}
+@media (min-width: 620px) and (max-width:1000px) {
+section#body .one_col_layout .user_profile_page .form_block .colleft { float: left; width: 45%;}
+section#body .one_col_layout .user_profile_page .form_block .colright {float: right; width: 45%;}
+section#body .one_col_layout .user_profile_page .form_block .input_outer select{ background-position:right;}	
+}
+
+/*******************************************************/
+
+/*forgot your password page*/
+
+@media (min-width: 200px) and (max-width:550px){
+section#body .one_col_layout .forgot_your_password .input_outer { margin: 50px auto 0; width: 98%;}
+section#body .one_col_layout .forgot_your_password .button_outer { margin: 10px auto 0; width: 98%;}	
+}
+@media (min-width: 550px) and (max-width:850px){
+section#body .one_col_layout .forgot_your_password .input_outer { margin: 50px auto 0; width:60%;}
+section#body .one_col_layout .forgot_your_password .button_outer { margin: 10px auto 0; width:60%;}	
+}
+
+
+/*****************************************************/
+
+/*feedback_page*/
+
+
+@media (min-width: 200px) and (max-width:580px){
+section#body .one_col_layout .feedback_page .text_block h3 img { max-width: 38%;}
+section#body .one_col_layout .feedback_page .text_block h3 { font-size: 24px;}
+section#body .one_col_layout .feedback_page .text_block .button_outer { width: 80%;}
+section#body .one_col_layout .feedback_page .how_to_work_block ul li { width: 97%; margin:12px 0;}	
+}
+@media (min-width: 580px) and (max-width:800px){
+section#body .one_col_layout .feedback_page .text_block h3 img { max-width: 25%;}
+section#body .one_col_layout .feedback_page .text_block h3 { font-size: 24px;}
+section#body .one_col_layout .feedback_page .text_block .button_outer { width: 50%;}
+section#body .one_col_layout .feedback_page .how_to_work_block ul{ text-align:center;}
+section#body .one_col_layout .feedback_page .how_to_work_block ul li { width: 46%; margin:10px;}	
+}
+@media (min-width: 800px) and (max-width:1000px){
+section#body .one_col_layout .feedback_page .text_block h3 img { max-width: 25%;}
+section#body .one_col_layout .feedback_page .text_block h3 { font-size: 24px;}
+section#body .one_col_layout .feedback_page .text_block .button_outer { width: 40%;}
+section#body .one_col_layout .feedback_page .how_to_work_block ul{ text-align:center;}
+section#body .one_col_layout .feedback_page .how_to_work_block ul li { width: 31%; margin:5px;}	
+}
+
+
+/***************************************************/
+
+/*doctor_verification page*/
+
+@media (min-width: 200px) and (max-width:620px){
+section#body .one_col_layout .doctor_verification_page .form_block { width: 98%;}
+section#body .one_col_layout .doctor_verification_page .form_block .input_outer select{ background-position:right;}
+section#body .one_col_layout .doctor_verification_page .form_block .button_outer { width: 100%;}
+}
+@media (min-width: 620px) and (max-width:1000px){
+section#body .one_col_layout .doctor_verification_page .form_block { width: 80%;}
+section#body .one_col_layout .doctor_verification_page .form_block .input_outer select{ background-position:right;}
+section#body .one_col_layout .doctor_verification_page .form_block .button_outer { width: 40%;}
+}
+
+
+/*
+*********************************************************************/
+/*detail page*/
+
+
+@media (min-width: 200px) and (max-width:430px){
+section#body .two_col_layout .detail_page .profile_container .tabs_content .book_appointment {float: left; margin-top:20px;}
+section#body .two_col_layout .detail_page .profile_container .clinic_block .chat_block { margin-top:111px;}	
+}
+
+
+
+/************************************************************/
+
+/*login page*/
+
+@media (min-width: 200px) and (max-width:430px){
+section#body .one_col_layout .login_page .login_block .form_block .facebook_button a{ background-image:none;}	
+}
+
+@media (min-width: 200px) and (max-width:820px){
+section#body .one_col_layout .login_page .login_block .form_block { padding: 0 10px; width: 98%; float:none;}
+section#body .one_col_layout .login_page .login_block .form_block .form_outer .newcalendarselect { width: 100%;}
+section#body .one_col_layout .login_page .login_block .form_block .form_outer .style_outer { width:100%;}
+section#body .one_col_layout .login_page .login_block .form_block .form_outer .input_outer { margin-top: 20px; width: 100%;}
+section#body .one_col_layout .login_page .login_block .thumbnail { float: none; margin: 0 auto;}
+section#body .one_col_layout .login_page .login_block .form_block .form_outer select{ background-position:right;}
+section#body .one_col_layout .login_page .login_block .thumbnail { display: none; float: none; margin: 0 auto;}	
+}
+@media (min-width: 820px) and (max-width:1250px){
+section#body .one_col_layout .login_page .login_block .thumbnail { width: 280px;}
+section#body .one_col_layout .login_page .login_block .form_block { margin-right: 20px;}
+}
+
+
+
+
+
+
+/*****************************************************************/
+
+/*leftcol on click in responsive*/
+
+@media (min-width: 800px) and (max-width:2000px){
+section#body .two_col_layout .responsive_bar{ display:none;}	
+section#body .two_col_layout #myContent2{ display:block !important;}
+section#body .two_col_layout #myContent2 .responsive_block{ display:none;}
+}
+
+
+/********************************************************************/
+
+/*lissting page*/
+
+@media (min-width: 200px) and (max-width:420px){
+section#body .two_col_layout .left_col .filters_container .filter ul li ul.days li { padding: 0 6px;}	
+}
+@media (min-width: 420px) and (max-width:520px){
+section#body .two_col_layout .left_col .filters_container .filter ul li ul.days li { padding: 0 11px;}	
+}
+@media (min-width: 520px) and (max-width:620px){
+section#body .two_col_layout .left_col .filters_container .filter ul li ul.days li { padding: 0 16px;}	
+}
+@media (min-width: 620px) and (max-width:800px){
+section#body .two_col_layout .left_col .filters_container .filter ul li ul.days li { padding: 0 23px;}	
+}
+@media (min-width: 800px) and (max-width:900px){
+section#body .two_col_layout .left_col .filters_container .filter ul li ul.days li a { padding: 4px;}	
+}
+
+
+/*
+********************************************************************/
+
+/*practice_profile page*/
+
+@media (min-width: 200px) and (max-width:800px){
+section#body .two_col_layout .detail_page .healthGinie_app_container { display: none;}	
+}
+@media (min-width: 200px) and (max-width:920px){
+}
+@media (min-width: 200px) and (max-width:400px){
+section#body .two_col_layout .detail_page .profile_container .tabs_content .listing_row .about_block ul {width: 100%; margin-top:30px;}
+section#body .two_col_layout .detail_page .profile_container .tabs_content .services_block{ margin-top:20px;}
+section#body .two_col_layout .detail_page .profile_container .tabs_content .services_block ul {width: 95%; padding:0 10px;}
+}
+@media (min-width: 200px) and (max-width:450px){
+section#body .two_col_layout .detail_page .profile_container .tabs_content .feedback ul li .text_block { float: left;
+width: 100%;}
+}
+@media (min-width: 200px) and (max-width:390px){
+section#body .two_col_layout .detail_page .profile_container .tabs-style-iconbox nav ul li a span{ display:none;}
+section#body .two_col_layout .detail_page .profile_container .tabs nav ul .map{ display:none;}
+section#body .two_col_layout .detail_page .profile_container .tabs-style-iconbox nav{ border:none;}
+section#body .two_col_layout .practice_profile .profile_container .tabs nav ul li:nth-child(1){ display:none;}
+section#body .two_col_layout .detail_page .profile_container .tabs-style-iconbox nav ul li a {padding:12px 9px; font-size:14px; border-radius:0px;}		
+}
+@media (min-width: 390px) and (max-width:1500px){
+section#body .two_col_layout .practice_profile .profile_container .doc_detail_container .details_block .get_directions{ display:none;}	
+}
+@media (min-width: 390px) and (max-width:500px){
+section#body .two_col_layout .detail_page .profile_container .tabs-style-iconbox nav ul li a span{ display:none;}
+section#body .two_col_layout .detail_page .profile_container .tabs-style-iconbox nav ul li a {padding:12px 8px; font-size:12px; border-radius:0px;}	
+section#body .two_col_layout .detail_page .profile_container .tabs-style-iconbox nav{ border:none;}	
+}
+@media (min-width: 500px) and (max-width:800px){
+section#body .two_col_layout .detail_page .profile_container .tabs-style-iconbox nav ul li a{padding:11px 11px 8px;}
+}
+
+@media (min-width: 450px) and (max-width:600px){
+section#body .two_col_layout .detail_page .profile_container .tabs_content .feedback ul li .text_block { float: left;
+width: 52%;}
+}
+@media (min-width: 400px) and (max-width:600px){
+section#body .two_col_layout .detail_page .profile_container .tabs_content .listing_row .about_block ul {width:50%; margin-top:30px;}
+section#body .two_col_layout .detail_page .profile_container .tabs_content .services_block ul {width: 44%;}
+}
+@media (min-width: 200px) and (max-width:600px){
+section#body .two_col_layout .practice_profile .profile_container .doc_detail_container .details_block .availability_block { float: left; width: 150px; clear:both;}
+section#body .two_col_layout .detail_page .profile_container .tabs-style-iconbox nav ul li { margin-right: 2px;
+margin-top: 12px;}
+
+section#body .two_col_layout .practice_profile .profile_container .doc_detail_container .details_block{margin-left:0;}
+section#body .two_col_layout .practice_profile .profile_container { padding: 0 15px; width: 100%;}
+section#body .two_col_layout .detail_page .profile_container .tabs_content .map_container { width: 100%;}
+}
+@media (min-width: 600px) and (max-width:800px){
+section#body .two_col_layout .practice_profile .profile_container { padding: 0 15px; width: 100%;}
+}
+@media (min-width: 600px) and (max-width:1000px){
+section#body .two_col_layout .detail_page .profile_container .tabs_content .map_container { width: 100%;}
+section#body .two_col_layout .detail_page .profile_container .tabs_content .feedback ul li .text_block { float: left;
+width: 65%;}
+section#body .two_col_layout .detail_page .profile_container .tabs-style-iconbox nav ul li a{padding:11px 16px 8px;}	
+}
+
+
+
+
+
+/*
+******************************************************/
+/*dashboard_page*/
+
+
+/*dashboard nav*/
+@media (min-width: 200px) and (max-width:620px){
+section#body .one_col_layout .dashboard_page .dashboard_nav ul { text-align: center;}	
+section#body .one_col_layout .dashboard_page .dashboard_nav ul li { display: inline-block; float: none; padding: 5px 10px; width: auto;}	
+}
+@media (min-width: 200px) and (max-width:520px){
+section#body .one_col_layout .dashboard_page .dashboard_block { padding:0 10px 30px 10px;}
+section#body .one_col_layout .dashboard_page .dashboard_block .left_side { width:98%; float:none;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side {width: 98%; margin-top:10px; float:none;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .thumbnail_block {float: left; width: 100%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .links_block {
+float: right; width: 100%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .links_block .progress_bar { float: left;
+margin-right: 15px; width: 48%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .left_side .thumbnail {width:50%;}
+}
+@media (min-width: 480px) and (max-width:520px){
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .thumbnail_block { float: left; width: 55%; margin-right:15px;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .links_block {
+float: right; width: 41%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .links_block .progress_bar { width: 100%;}	
+}
+@media (min-width: 520px) and (max-width:820px){
+section#body .one_col_layout .dashboard_page .dashboard_block { padding:0 10px 30px 10px;}	
+section#body .one_col_layout .dashboard_page .dashboard_block .left_side {width: 35%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .left_side .button_outer { margin: 2px auto 10px;
+width: 70%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side {width: 63%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .thumbnail_block { float: left;
+width: 100%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .links_block { float: right;width: 100%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .links_block .progress_bar {float: left;
+margin-right: 15px; width: 45%;}
+}
+@media (min-width:750px) and (max-width:820px){
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .thumbnail_block { float: left; width: 55%; margin-right:15px;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .links_block {
+float: right; width: 41%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .links_block .progress_bar { width: 100%;}	
+}
+@media (min-width:820px) and (max-width:1000px){
+section#body .one_col_layout .dashboard_page .dashboard_block { padding:0 10px 30px 10px;}	
+section#body .one_col_layout .dashboard_page .dashboard_block .left_side {width: 28%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side {width: 70%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .thumbnail_block { float: left; width: 45%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .links_block {float: right; width: 54%;}
+section#body .one_col_layout .dashboard_page .dashboard_block .right_side .links_block .progress_bar { margin-right: 18px;width: 140px;}	
+}
+
+
+
+
+/**************************************************************/
+
+/*doctor profile page*/
+
+@media (min-width:200px) and (max-width:420px){
+section#body .one_col_layout .doctor_profile_container .block_outer .block .timing_col { margin: 10px; width: 100%;}
+section#body .one_col_layout .doctor_profile_container .block_outer .block .timing_outer{ width:100%;} 	
+}
+@media (min-width:420px) and (max-width:520px){
+section#body .one_col_layout .doctor_profile_container .block_outer .block .timing_col { margin: 10px; width: 100%;}
+section#body .one_col_layout .doctor_profile_container .block_outer .block .timing_outer{ width:78%;} 	
+}
+@media (min-width:520px) and (max-width:620px){
+section#body .one_col_layout .doctor_profile_container .block_outer .block .timing_col { margin: 10px; width: 44%;}
+section#body .one_col_layout .doctor_profile_container .block_outer .block .timing_outer{ width:82%;}	
+}
+@media (min-width:620px) and (max-width:820px){
+section#body .one_col_layout .doctor_profile_container .block_outer .block .timing_col { margin: 10px; width: 45%;}
+section#body .one_col_layout .doctor_profile_container .block_outer .block .timing_outer{ width:82%;}	
+}
+@media (min-width:820px) and (max-width:1000px){
+section#body .one_col_layout .doctor_profile_container .block_outer .block .timing_col { margin: 10px; width: 29%;}
+section#body .one_col_layout .doctor_profile_container .block_outer .block .timing_outer{ width:87%;}	
+}
+@media (min-width:200px) and (max-width:520px){
+section#body .one_col_layout .doctor_profile_container .topbar .back { margin: 5px 0;}	
+section#body .one_col_layout .doctor_profile_container .topbar .approval_block { float: right; width: 100%;}
+section#body .one_col_layout .doctor_profile_container .topbar .approval_block a {display: block; margin: 18px 2px 0;text-align: center; width:98%;}
+}
+@media (min-width:200px) and (max-width:820px){
+section#body .one_col_layout .doctor_profile_container .links_block ul li { margin: 5px 0; padding: 0 10px;}
+section#body .one_col_layout .doctor_profile_container .block_outer .block .edit_profile{ margin-top:25px;}
+	
+}
+
+
+
+
+/*******************************************************/
+
+/*account page*/
+
+
+@media (min-width:200px) and (max-width:520px){
+section#body .one_col_layout .doctor_profile_container .block_outer .block .map { width: 100%;}	
+}
+@media (min-width:520px) and (max-width:820px){
+section#body .one_col_layout .doctor_profile_container .block_outer .block .map { width:80%;}	
+}
+/*
+*************************************************************/
+
+/*404 error_page*/
+
+@media (min-width:200px) and (max-width:520px){
+section#body .one_col_layout .error_page .error_block { padding: 15px;}	
+section#body .one_col_layout .error_page .error_block .thumbnail { width: 100%;}
+section#body .one_col_layout .error_page .error_block .text_block { width: 100%;}
+section#body .one_col_layout .error_page .error_block .text_block h2{ font-size:24px;}	
+}
+@media (min-width:520px) and (max-width:820px){
+section#body .one_col_layout .error_page .error_block { padding: 15px;}	
+section#body .one_col_layout .error_page .error_block .thumbnail { width: 35%;}
+section#body .one_col_layout .error_page .error_block .text_block { width: 60%; margin-top:0;}
+section#body .one_col_layout .error_page .error_block .text_block h2{ font-size:24px;}
+}
+
+
+/**************************************************************/
+
+/*confirm_appointment_page*/
+
+@media (min-width:200px) and (max-width:620px){
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .date_block{ width:95%; margin:0 auto; float:none;}
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .date_block .detail_container .text{ width:100%; text-align:center; margin-top:30px;}
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .form_block { width:98%; margin-top:40px; float:none; padding:0 10px;}
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .date_block .detail_container .thumbnail{ float:none; margin:0 auto; display:none;}
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .goback_button { margin-left: 12px;}
+
+
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .date_block .top_block .date a {background: #29aae2 none repeat scroll 0 0; border-radius: 22px; color: #fff; font-size: 13px; padding: 10px 15px; margin-top:10px; display:block;}
+
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .date_block .top_block .date a:hover{ background-color:#80b63a; color:#fff;}
+}
+@media (min-width:620px){
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .date_block .get_directions{ display:none;}	
+}
+
+
+@media (min-width:620px) and (max-width:820px){
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .date_block{ width:55%; margin-left:5px;}
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .date_block .detail_container .text{ width:100%; margin-top:30px; text-align:center;}
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .form_block { width:43%; padding:0 10px;}
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .date_block .detail_container .thumbnail{ float:none; margin:0 auto;}
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .goback_button { margin-left: 8px;}
+}
+@media (min-width:820px) and (max-width:1000px){
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .date_block{ width:55%; margin-left:5px;}
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .date_block .detail_container .text {float: right; width: 68%;}
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .form_block { float: right; padding: 0 15px; width: 43%;}
+section#body .one_col_layout .confirm_appointment_page .confirm_appointment_block .goback_button { margin-left: 8px;}	
+}
+
+/***************************************************************/
+/*calendar html*/
+
+@media (min-width:200px) and (max-width:500px){
+section#body .calendar_block{ width:97%; margin-left:2px;}
+section#body .calendar_block .top_block .prev a {font-size: 12px;padding: 8px 10px 8px 4px;}
+section#body .calendar_block .top_block .next a {font-size: 12px;padding: 8px 4px 8px 10px;}
+section#body .calendar_block .top_block .today{ font-size:12px; width:34%;}
+section#body .calendar_block .top_block .today span{ font-size:12px;}
+section#body .calendar_block .day_times ul li h5 { font-size: 12px; padding: 10px 1px;}
+section#body .calendar_block .day_times ul li label { font-size: 12px; font-weight:normal;}
+section#body .calendar_block .day_times ul .disabled {font-size: 12px;}
+section#body .calendar_block .top_block .calendar {left: 0; width:100%;}
+section#body .calendar_block .top_block .calendar table .thead td{ padding:12px 10px;}	
+}
+
+
+/******************************************************
+register page
+******************************************************/
+@media (min-width:200px) and (max-width:530px){
+section#body .one_col_layout .login_page .login_block .form_block .radio_button ul li {display: inline-block;
+width: 49%;}	
+}
+
+
+/***************************************************************
+
+appointment_page
+
+***************************************************************/
+
+
+@media (min-width:200px) and (max-width:550px){
+section#body .one_col_layout .dashboard_page .appointment_block{ width:97%; padding:0 10px 80px 10px;}	
+section#body .one_col_layout .dashboard_page .appointment_block .dropdown_outer{ width:100%; float:none;}
+section#body .one_col_layout .dashboard_page .appointment_block .dropdown_outer select{ background-position:right;}
+section#body .one_col_layout .dashboard_page .appointment_block .search_block{ width:100%; float:none; margin-top:30px;}
+section#body .one_col_layout .dashboard_page .appointment_block .search_block .search .input{ width:80%;}
+
+section#body .one_col_layout .dashboard_page .appointment_block .table_block table .thead td { font-weight:normal; font-size:12px; vertical-align:top;}
+
+section#body .one_col_layout .dashboard_page .appointment_block .table_block table .tbody td { font-weight:normal; font-size:12px;}
+ 
+}
+
+@media (min-width:550px) and (max-width:1000px){
+section#body .one_col_layout .dashboard_page .appointment_block{ width:97%; padding:0 10px 80px 10px;}	
+section#body .one_col_layout .dashboard_page .appointment_block .dropdown_outer{ width:40%;}	
+section#body .one_col_layout .dashboard_page .appointment_block .dropdown_outer select{ background-position:right;}	
+section#body .one_col_layout .dashboard_page .appointment_block .search_block{ width:50%;}
+section#body .one_col_layout .dashboard_page .appointment_block .search_block .search .input{ width:80%;}
+section#body .one_col_layout .dashboard_page .appointment_block .table_block table .thead td {font-size:12px;}
+section#body .one_col_layout .dashboard_page .appointment_block .table_block table .tbody td { font-size:12px;}
+}
+
+
+/*
+**********************************************************************************************
+
+jobs listing page
+
+**********************************************************************************************
+*/
+
+@media (min-width:200px) and (max-width:470px){
+section#body .two_col_layout .right_col .jobs_apply_block .button { float: left; margin-top: 20px;}	
+}
+@media (min-width:800px) and (max-width:1000px){
+section#body .two_col_layout .right_col .jobs_apply_block{ width:97%;}
+section#body .two_col_layout .right_col_full_width{ padding:0 20px;}
+}
+
+/*
+**********************************************************************************************
+
+jobs apply detail page
+
+**********************************************************************************************
+*/
+
+
+@media (min-width:200px) and (max-width:720px){
+section#body .two_col_layout .detail_page .profile_container .jobs_apply_detail_block .detail_block_outer{width:100%;}	
+section#body .two_col_layout .detail_page .profile_container .jobs_apply_detail_block .button{ width:90%;}
+}
+@media (min-width:200px) and (max-width:420px){
+section#body .two_col_layout .detail_page .profile_container .jobs_apply_detail_block {padding: 20px 10px 40px;}	
+section#body .two_col_layout .detail_page .profile_container .jobs_apply_detail_block p {font-size: 12px;}
+section#body .two_col_layout .detail_page .profile_container .jobs_apply_detail_block p span {font-size: 11px;}	
+}
+@media (min-width:200px) and (max-width:800px){
+section#body .two_col_layout .detail_page .profile_container { width:100% !important; padding:0 15px;}	
+}
